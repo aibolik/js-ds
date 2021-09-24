@@ -1,0 +1,29 @@
+{
+  "name": "js-ds",
+  "version": "1.0.0",
+  "description": "JavaScript/TypeScript common data structures",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aibolik/js-ds.git"
+  },
+  "keywords": [
+    "javascript",
+    "typescript",
+    "data",
+    "structures",
+    "algorithms"
+  ],
+  "author": "Aibol Kussain",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aibolik/js-ds/issues"
+  },
+  "homepage": "https://github.com/aibolik/js-ds#readme",
+  "devDependencies": {
+    "typescript": "^4.4.3"
+  }
+}
